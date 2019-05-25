@@ -6,21 +6,6 @@
 
 In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.
 
-### Before You Begin
-
-Create a GitHub repo for this assignment and clone it to your computer. Any name will do -- just make sure it's related to this project in some fashion.
-
-Run `npm init`. When that's finished, install and save these npm packages:
-
-   1. express
-
-   2. express-handlebars
-
-   3. mongoose
-
-   4. cheerio
-
-   5. axios
 
 ## Instructions
 
@@ -40,18 +25,4 @@ Run `npm init`. When that's finished, install and save these npm packages:
 
 * Beyond these requirements, be creative and have fun with this!
 
-### Reminder: Submission on BCS
 
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
-
----
-
-### Minimum Requirements
-
-* **This assignment must be deployed.** Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Heroku and adding a README.md are required for this homework. In addition, add this homework to your portfolio, more information can be found below.
-
----
-
-### Hosting on Heroku
-
-Now that we have a backend to our applications, we use Heroku for hosting. Please note that while **Heroku is free**, it will request credit card information if you have more than 5 applications at a time or are adding a database.
